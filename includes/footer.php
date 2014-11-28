@@ -37,14 +37,18 @@
 				<div class="col-md-3">
 					<h1 class="title"><span class="colortext">C</span>onnect </h1>
 					<div class="footermap">
-						<p>
+						<!-- <p>
 							<strong>www.ocf.co</strong> 
-						</p>
+						</p> -->
 						
 						
 						<p>
-							<strong>ourcommonfuture </strong> 
+							<span>ourcommonfuture.co@gmail.com</span> 
 						</p>
+						<div>
+							<button style="background:rgba(57,57,57,0.87) !important;color:white; border:1px solid gray;"><a style="color:white;"href="contact.php">Send Message</a> </button>
+						</div>
+						<!-- <a href="mailto:ourcommonfuture.co@gmail.com"> -->
 						<p><br></p>
 						<ul class="social-icons list-soc">
 							<li><a href="https://www.facebook.com/ocfuture" target="_blank"><i class="icon-facebook"></i></a></li>

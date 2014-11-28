@@ -63,9 +63,9 @@ include 'projects/includes/Bluehost_connect.php';
 			</ul>
 			</li>
 			<li class="">
-				<a href="impact.php" class="#">YOUR IMPACT</a>
+				<a href="faqs.php" class="#">FAQ</a>
 			</li> 
-			<li><a href="contact.php">CONTACT</a></li>
+			<!-- <li><a href="contact.php">CONTACT</a></li> -->
 
 			<?php if($_SESSION["uid"]==""){?>                  
 	            <li><a href="/login_page.php">LOGIN</a></li>
